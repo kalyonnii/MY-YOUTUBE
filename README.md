@@ -1,3 +1,32 @@
+
+# Requirement Clasification
+- Features
+- Tech stack
+    - Redux 
+    - Tailwind (modern framework)
+    - React Router DOm for routing
+    - bundler  
+    - Jest , react testing library
+
+
+    youtube structure
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
